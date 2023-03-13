@@ -1,2 +1,2 @@
-# Supervised-Machine-Learning-Competition
-Supervised-Machine-Learning-Competition 
+# Supervised-Machine-Learning-Mushroom_Competition
+Supervised-Machine-Learning-Mushroom_Competition 
